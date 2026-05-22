@@ -17,3 +17,5 @@ W efekcie pocięty model składa się wyłącznie z zewnętrznych ścian bez wyp
 Otrzymany w ten sposób element po całej długości jest ciągłą linią plastiku co daje większą wyrzymałość i elastyczność przy małej grubości.
 
 <img width="3322" height="1512" alt="image" src="https://github.com/user-attachments/assets/ba5009ec-4d24-4641-970a-3cb1bdd0dc92" />
+
+Na zrzucie ekranu ze Slicera widzimy że element jest zbudowany z 4 jednolitych ścian.
